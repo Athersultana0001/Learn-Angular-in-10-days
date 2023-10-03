@@ -390,8 +390,6 @@ With these fundamentals under our belts, we're well-prepared to dive deeper into
 
 ## Quiz: "Angular Mastery" 🚀
 
-## Quiz: Angular Day 1 Mastery 🚀
-
 ### Question 1:
 What is Angular primarily used for in web development? 🌐
 
@@ -641,6 +639,7 @@ In Angular, how do you link a component's HTML template with its TypeScript code
 - D) By specifying it in the component metadata
 
 **Correct Answer:** D) By specifying it in the component metadata 📝
+
 
 Congratulations on completing Day 1 of our Angular journey! 🚀
 
