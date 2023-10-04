@@ -131,7 +131,7 @@ constructor(private route: ActivatedRoute) {
 That's it! You've now implemented client-side routing in your Angular application. Users can navigate between different views, and you can use route parameters for dynamic content. 🎉
 
 # Create navigation menus and links for seamless user navigation. 🌆
-
+![How to Enable Navigation and Routing in Angular 8](https://d2mk45aasx86xg.cloudfront.net/Navigation_and_Routing_in_Angular_8_d729d690fa.webp)
 Certainly! Let's create navigation menus and links for seamless user navigation in your Angular application. 🌆
 
 ### Creating Navigation Menus and Links 🌟
@@ -703,7 +703,6 @@ Today, we delved into the world of Angular Routing and Navigation. We learned ho
 Congratulations on completing Day 4 of our Angular journey! Today, we explored the fascinating world of Angular Routing and Navigation. We learned how to create seamless user experiences with client-side routing, build intuitive navigation menus and links, leverage route parameters and guards for customization and security, and supercharge our applications with lazy loading for modules.
 
 Keep up the great work! Tomorrow, we'll dive into more advanced topics, so get ready for another exciting day of Angular mastery. Your dedication is taking you closer to becoming an Angular expert! 🎉💪
-
 
 
 
