@@ -39,7 +39,7 @@ On Day 3, we will dive deeper into Angular components and directives to further 
 
 By the end of Day 3, you will have a solid foundation in creating and managing Angular components, working with common directives, developing custom directives, and establishing effective communication between Angular components. 🚀
 # 📦 Create and use Angular components effectively.
-![Create your Standalone Angular Library in 10 minutes - Angular inDepth](https://images.indepth.dev/images/2020/12/create_your_standalone_angular_library_in_10_minutes.jpg)
+![9 Nifty Angular Component Libraries to Jump-Start Development - Kinsta®](https://kinsta.com/wp-content/uploads/2023/03/angular-component-libraries-1200x675.png)
 
 
 Absolutely! Let's dive into creating and using Angular components effectively with detailed content, examples, explanations, and emojis. 😊
@@ -694,207 +694,257 @@ These applications illustrate how you can apply the concepts learned on Day 3 of
 
 Day 3 delved into the world of Angular components and directives. We learned how to create and utilize components effectively, mastering directives like `ngIf`, `ngFor`, and `ngSwitch` for dynamic DOM manipulation. We even explored the art of crafting custom directives. To top it off, we honed our skills in Angular component communication, using techniques such as input/output properties, services, observables, `ViewChild`, and shared services. With these tools in hand, we're well-equipped to build dynamic, responsive, and interactive Angular applications! 🚀
 
-# "Angular Components & Directives Quiz" 🚀
+# 🌟 Angular Components and Directives Quiz
 
-**Question 1** 📦: What is the primary purpose of Angular components? 🏆
-A) To handle HTTP requests and responses
-B) To define application routes
-C) To encapsulate UI and logic
-D) To manage application state
+### Question 1
 
-**Correct Answer**: C) To encapsulate UI and logic 🏆
+What is the primary purpose of Angular components? 🤔
 
-**Question 2** 🛠️: Which command is used to create a new Angular component using the Angular CLI? 🏆
-A) ng make component
-B) ng generate component
-C) ng build component
-D) ng create component
+-   A. To define data models
+-   B. To manage application routing
+-   C. To encapsulate the behavior and UI of a part of the application
+-   D. To handle HTTP requests and API calls
+-   Correct Answer: C ✅
 
-**Correct Answer**: B) ng generate component 🏆
+### Question 2
 
-**Question 3** 🌟: Which directive is used for conditional rendering in Angular? 🏆
-A) ngIf
-B) ngFor
-C) ngSwitch
-D) ngWhile
+Which Angular directive is used to conditionally render HTML elements based on a boolean expression? 🧐
 
-**Correct Answer**: A) ngIf 🏆
+-   A. ngFor
+-   B. ngSwitch
+-   C. ngIf
+-   D. ngWhile
+-   Correct Answer: C ✅
 
-**Question 4** 🔄: What does the `ngFor` directive do in Angular? 🏆
-A) Handles HTTP requests
-B) Defines application routes
-C) Iterates over a list to generate dynamic content
-D) Manages application state
+### Question 3
 
-**Correct Answer**: C) Iterates over a list to generate dynamic content 🏆
+What does the ngFor directive in Angular do? 🤓
 
-**Question 5** 🔄: Which directive allows you to perform conditional rendering based on multiple conditions in Angular? 🏆
-A) ngIf
-B) ngFor
-C) ngSwitch
-D) ngChoose
+-   A. It creates a new component instance.
+-   B. It generates a list of numbers.
+-   C. It iterates over an array and repeats an element for each item.
+-   D. It performs a switch-case operation.
+-   Correct Answer: C ✅
 
-**Correct Answer**: C) ngSwitch 🏆
+### Question 4
 
-**Question 6** 📋: To create a custom directive in Angular, you need to annotate a TypeScript class with which decorator? 🏆
-A) @Service
-B) @Component
-C) @Directive
-D) @Module
+Which directive in Angular is used for handling multiple conditional cases based on expressions? 🤩
 
-**Correct Answer**: C) @Directive 🏆
+-   A. ngRepeat
+-   B. ngSwitch
+-   C. ngIfElse
+-   D. ngConditional
+-   Correct Answer: B ✅
 
-**Question 7** 📥: What is the purpose of the `@Input` decorator in Angular? 🏆
-A) To emit events
-B) To inject dependencies
-C) To pass data from a parent to a child component
-D) To declare a service
+### Question 5
 
-**Correct Answer**: C) To pass data from a parent to a child component 🏆
+What is the primary role of a custom directive in Angular? 🧑‍🔧
 
-**Question 8** 🚀: Which communication technique is suitable for components that are not directly related, such as sibling components? 🏆
-A) Input and Output Properties
-B) Services and Observables
-C) ViewChild and ViewChildren
-D) EventBus or Shared Service
+-   A. To define a component's structure
+-   B. To encapsulate reusable behavior and attributes
+-   C. To configure routing in the application
+-   D. To manage forms and user input
+-   Correct Answer: B ✅
 
-**Correct Answer**: B) Services and Observables 🏆
+### Question 6
 
-**Question 9** 🔍: When using ViewChild and ViewChildren, what decorator allows you to access elements or components within your template? 🏆
-A) @Query
-B) @Child
-C) @Reference
-D) @ViewChild
+Which directive is used in Angular to create a custom structural directive? 🛠️
 
-**Correct Answer**: D) @ViewChild 🏆
+-   A. ngCustom
+-   B. ngDirective
+-   C. ngStructural
+-   D. ngTemplate
+-   Correct Answer: D ✅
 
-**Question 10** 🚀: What technique is best for handling communication between a parent component and its child components in Angular? 🏆
-A) ViewChild and ViewChildren
-B) Services and Observables
-C) Input and Output Properties
-D) EventBus or Shared Service
+### Question 7
 
-**Correct Answer**: C) Input and Output Properties 🏆
+In Angular, what is the purpose of the @Input decorator? 🤝
 
-**Question 11** 🏷️: Which Angular directive is used for displaying content conditionally based on a specific condition? 🏆
-A) ngShow
-B) ngIf
-C) ngVisible
-D) ngHide
+-   A. To define a custom directive
+-   B. To bind a property of a child component to a property of its parent component
+-   C. To declare a variable in a component
+-   D. To specify a route parameter
+-   Correct Answer: B ✅
 
-**Correct Answer**: B) ngIf 🏆
+### Question 8
 
-**Question 12** 🔄: In Angular, what does the `ngFor` directive do? 🏆
-A) Executes a function for each item in an array
-B) Iterates over elements in the DOM
-C) Iterates over items in an array and generates content
-D) Switches between multiple views based on conditions
+Which method is commonly used for parent-to-child communication in Angular components? 📢
 
-**Correct Answer**: C) Iterates over items in an array and generates content 🏆
+-   A. EventEmitter
+-   B. @ViewChild
+-   C. @Output
+-   D. @Input
+-   Correct Answer: D ✅
 
-**Question 13** 🔄: Which directive is used for handling multiple conditions in Angular templates? 🏆
-A) ngSwitch
-B) ngIf
-C) ngFor
-D) ngChoose
+### Question 9
 
-**Correct Answer**: A) ngSwitch 🏆
+What is the primary goal of Angular component communication? 🎯
 
-**Question 14** 📋: To conditionally render content based on multiple conditions in Angular, which directive is most suitable? 🏆
-A) ngIf
-B) ngFor
-C) ngSwitch
-D) ngChoose
+-   A. To facilitate server-side rendering
+-   B. To pass data and events between different parts of an application
+-   C. To define the application's routing structure
+-   D. To manage form submissions
+-   Correct Answer: B ✅
 
-**Correct Answer**: C) ngSwitch 🏆
+### Question 10
 
-**Question 15** 🛠️: What is the primary purpose of custom directives in Angular? 🏆
-A) To create new Angular applications
-B) To encapsulate complex behavior and DOM manipulation
-C) To define Angular services
-D) To manage HTTP requests and responses
+What is the purpose of the ngSwitch directive in Angular? 🔄
 
-**Correct Answer**: B) To encapsulate complex behavior and DOM manipulation 🏆
+-   A. To create a loop in the template
+-   B. To switch between different templates based on a condition
+-   C. To apply a CSS class conditionally
+-   D. To create a two-way data binding
+-   Correct Answer: B ✅
 
-**Question 16** 📥: In Angular, what does the `@Input` decorator allow you to do? 🏆
-A) Emit events
-B) Inject dependencies
-C) Pass data from parent to child component
-D) Define a service
+### Question 11
 
-**Correct Answer**: C) Pass data from parent to child component 🏆
+Which symbol is used to mark a property as an input property in Angular? 📥
 
-**Question 17** 🔄: When should you use services and observables for component communication in Angular? 🏆
-A) For parent-child communication
-B) For unrelated components that need to share data
-C) When using ViewChild and ViewChildren
-D) Only for sibling components
+-   A. #
+-   B. *
+-   C. @
+-   D. $
+-   Correct Answer: C ✅
 
-**Correct Answer**: B) For unrelated components that need to share data 🏆
+### Question 12
 
-**Question 18** 🔍: Which decorator is used to access child components in Angular? 🏆
-A) @ViewChild
-B) @ChildComponent
-C) @ChildDirective
-D) @Child
+What is the key benefit of using ngFor in Angular? 🗝️
 
-**Correct Answer**: A) @ViewChild 🏆
+-   A. It allows you to define custom structural directives.
+-   B. It enables the creation of dynamic lists or tables.
+-   C. It provides two-way data binding between components.
+-   D. It simplifies form handling.
+-   Correct Answer: B ✅
 
-**Question 19** 🔄: In Angular, what is a common use case for ViewChild and ViewChildren? 🏆
-A) Parent-child communication
-B) Sharing data between unrelated components
-C) Accessing elements or components within templates
-D) Handling events within the same component
+### Question 13
 
-**Correct Answer**: C) Accessing elements or components within templates 🏆
+How can you pass data from a parent component to a child component in Angular using @Input? 🤝
 
-**Question 20** 🚌: What is the primary purpose of an event bus or shared service in Angular component communication? 🏆
-A) Parent-child communication
-B) Sibling component communication
-C) Handling HTTP requests
-D) Handling routing
+-   A. By using the EventEmitter.
+-   B. By declaring a shared service.
+-   C. By using property binding with square brackets.
+-   D. By using the @Input decorator.
+-   Correct Answer: D ✅
 
-**Correct Answer**: B) Sibling component communication 🏆
+### Question 14
 
-**Question 21** 📥: In Angular, what is a common use case for Input and Output properties? 🏆
-A) Sharing data between unrelated components
-B) Accessing elements within templates
-C) Parent-child communication
-D) Handling HTTP requests
+Which directive in Angular is used to hide or show elements based on a condition? 🙈🙉🙊
 
-**Correct Answer**: C) Parent-child communication 🏆
+-   A. ngHide
+-   B. ngDisplay
+-   C. ngIf
+-   D. ngToggle
+-   Correct Answer: C ✅
 
-**Question 22** 🏷️: Which directive is used for conditional rendering in Angular? 🏆
-A) ngIf
-B) ngFor
-C) ngSwitch
-D) ngWhile
+### Question 15
 
-**Correct Answer**: A) ngIf 🏆
+What is the purpose of the ng-template element in Angular? 🗂️
 
-**Question 23** 📋: What is the purpose of the `@Input` decorator in Angular? 🏆
-A) To emit events
-B) To inject dependencies
-C) To pass data from a parent to a child component
-D) To declare a service
+-   A. To define a template that can be reused within the same component.
+-   B. To create a custom structural directive.
+-   C. To encapsulate the behavior of a component.
+-   D. To define the application's routing configuration.
+-   Correct Answer: A ✅
 
-**Correct Answer**: C) To pass data from a parent to a child component 🏆
+### Question 16
 
-**Question 24** 🔄: When should you use services and observables for component communication in Angular? 🏆
-A) For parent-child communication
-B) For unrelated components that need to share data
-C) When using ViewChild and ViewChildren
-D) Only for sibling components
+Which directive is used to apply CSS classes conditionally in Angular? 💅
 
-**Correct Answer**: B) For unrelated components that need to share data 🏆
+-   A. ngClass
+-   B. ngStyle
+-   C. ngIfClass
+-   D. ngConditionalClass
+-   Correct Answer: A ✅
 
-**Question 25** 🛠️: Which command is used to create a new Angular component using the Angular CLI? 🏆
-A) ng make component
-B) ng generate component
-C) ng build component
-D) ng create component
+### Question 17
 
-**Correct Answer**: B) ng generate component 🏆
+What is the purpose of ng-content in Angular? 📦
+
+-   A. To create a custom directive.
+-   B. To display content from a parent component inside a child component.
+-   C. To define a template that can be reused within the same component.
+-   D. To manage routing in the application.
+-   Correct Answer: B ✅
+
+### Question 18
+
+In Angular, what is the primary use of @Output decorators? 🔊
+
+-   A. To define a custom directive.
+-   B. To handle HTTP requests.
+-   C. To emit custom events from a child component to its parent component.
+-   D. To define a service.
+-   Correct Answer: C ✅
+
+### Question 19
+
+What is the key feature of a structural directive in Angular? 🧱
+
+-   A. It controls the visibility of elements.
+-   B. It modifies the styling of elements.
+-   C. It repeats or removes elements from the DOM based on conditions.
+-   D. It handles form submissions.
+-   Correct Answer: C ✅
+
+### Question 20
+
+What is the purpose of the ng-container element in Angular? 🗄️
+
+-   A. To create a custom structural directive.
+-   B. To display content from a parent component inside a child component.
+-   C. To define a template that can be reused within the same component.
+-   D. To group multiple elements without adding an extra wrapper to the DOM.
+-   Correct Answer: D ✅
+
+### Question 21
+
+Which directive is used for applying inline styles conditionally in Angular? 🎨
+
+-   A. ngClass
+-   B. ngStyle
+-   C. ngIfStyle
+-   D. ngConditionalStyle
+-   Correct Answer: B ✅
+
+### Question 22
+
+What is the primary purpose of the ng-container element in Angular? 🗄️
+
+-   A. To create a custom structural directive.
+-   B. To define a template that can be reused within the same component.
+-   C. To display content from a parent component inside a child component.
+-   D. To group multiple elements without adding an extra wrapper to the DOM.
+-   Correct Answer: D ✅
+
+### Question 23
+
+What is the role of the ngSwitchCase directive in Angular's ngSwitch? 🔄
+
+-   A. It defines the default case.
+-   B. It specifies the condition to switch between cases.
+-   C. It represents a specific case.
+-   D. It is used to create loops.
+-   Correct Answer: C ✅
+
+### Question 24
+
+In Angular, what is the purpose of the ng-container directive? 🗄️
+
+-   A. To define a custom structural directive.
+-   B. To group multiple elements without adding an extra wrapper to the DOM.
+-   C. To create a custom attribute directive.
+-   D. To control the visibility of elements.
+-   Correct Answer: B ✅
+
+### Question 25
+
+Which directive is used to apply CSS classes conditionally in Angular? 💄
+
+-   A. ngClass
+-   B. ngStyle
+-   C. ngIfClass
+-   D. ngConditionalClass
+-   Correct Answer: A ✅
 
 
  A journey through the heart of Angular's core concepts, focusing on components, directives, and component communication. We started by understanding the significance of Angular components, which serve as the building blocks of our applications, encapsulating both UI and logic.
@@ -904,7 +954,6 @@ Next, we delved into the powerful world of directives. We explored common direct
 Finally, we explored various techniques for Angular component communication. Whether it's passing data between parent and child components using Input and Output properties, leveraging services and observables for unrelated components, or accessing elements within templates with ViewChild and ViewChildren, we now have a toolkit for effective communication between different parts of our Angular application.
 
 As we close , remember that Angular is all about building dynamic, responsive, and maintainable web applications. We've covered essential concepts that will serve as a solid foundation for the days to come. So, keep exploring, experimenting, and building amazing Angular applications!
-
 
 
 
