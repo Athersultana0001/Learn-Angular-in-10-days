@@ -429,7 +429,7 @@ These applications demonstrate how to apply the concepts of building forms, addi
 
 # 📋  Summary: Angular Forms and Validation 🌟
 
-On Day 5, we delved deep into Angular's form-building capabilities! 🧩 We explored two form approaches: template-driven and reactive forms, with examples and explanations. We learned to create dynamic, user-friendly forms, added validation for data accuracy, and handled errors gracefully. 🚦
+We delved deep into Angular's form-building capabilities! 🧩 We explored two form approaches: template-driven and reactive forms, with examples and explanations. We learned to create dynamic, user-friendly forms, added validation for data accuracy, and handled errors gracefully. 🚦
 
 With this newfound knowledge, we're equipped to build everything from user registration and feedback surveys to complex job applications and dynamic gaming tournament forms. 🎮💼
 
