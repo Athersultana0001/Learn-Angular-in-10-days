@@ -395,8 +395,8 @@ By following these steps, you can implement theming and create custom styles for
 
 
 # 📚 Add captivating animations to your Angular projects.
+![Animating Your Angular App - DEV Community](https://res.cloudinary.com/practicaldev/image/fetch/s--0JQ4z3Cd--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2bx6eqbghpf2hknsft53.jpg)
 
-![In-Depth guide into animations in Angular - Angular inDepth](https://images.indepth.dev/images/2020/07/In-Depth-guide-into-animations-in-Angular2.jpg)
 
 Certainly! Let's explore how to add captivating animations to your Angular projects 📚.
 
