@@ -492,7 +492,8 @@ Happy E2E testing! 🚀🧪👨‍💻
 
 # 📚 Exploring testing best practices for Angular applications.
 
-![Tips to Secure Your Angular Application](https://dotnettrickscloud.blob.core.windows.net/article/120220723180436.jpg)
+![image](https://github.com/Athersultana0001/Learn-Angular-in-10-days/assets/129726145/012d1de0-fff3-4b9c-b7c4-97e6d59c79de)
+
 
 
 
