@@ -422,7 +422,7 @@ Certainly! Here's a short summary of Day 9 of your Angular state management less
 
 🌟 Master these concepts for effective state management in Angular!
 
-# **Quiz Title: Angular State Management Mastery Quiz** 🔄
+# **Quiz : Angular State Management Mastery Quiz** 🔄
 
 **Question 1**: What is the main purpose of state management in Angular applications? 🤔
 
