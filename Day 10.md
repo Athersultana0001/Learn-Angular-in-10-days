@@ -490,6 +490,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
    - [x] B. Building a complete Angular application
    - [ ] C. Exploring advanced CSS techniques
    - [ ] D. Studying React development
+
    **Correct Answer: B 🌟**
 
 2. Which step of the final project involves refining and improving the Angular app? 🌟
@@ -497,6 +498,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
    - [x] B. Polishing and optimizing the app
    - [ ] C. Final project presentation
    - [ ] D. Further Angular resources and tips
+
    **Correct Answer: B 🌟**
 
 3. During the final project presentation, you should showcase: 🎉
@@ -504,6 +506,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
    - [ ] B. Your coding skills in Python
    - [x] C. The Angular application you built
    - [ ] D. Your collection of pet photos
+
    **Correct Answer: C 🎉**
 
 4. What is the main goal of Lesson 10's final project? 🏗️
@@ -511,6 +514,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
    - [ ] B. Learning Angular basics
    - [x] C. Creating a complete Angular application
    - [ ] D. Mastering Photoshop
+
    **Correct Answer: C 🏗️**
 
 5. In Lesson 10, what are you expected to do after completing your Angular application? 🌟
@@ -518,6 +522,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
    - [x] B. Polishing and optimizing the app
    - [ ] C. Forget about the project
    - [ ] D. Present it to your cat
+
    **Correct Answer: B 🌟**
 
 6. What resources will be discussed in Lesson 10 for further Angular learning? 📚
@@ -525,6 +530,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
    - [ ] B. Gardening tips
    - [x] C. Further Angular resources and tips
    - [ ] D. Astrophysics documentaries
+
    **Correct Answer: C 📚**
 
 7. Which step of the final project involves the actual coding and implementation of your Angular app? 🏗️
@@ -532,6 +538,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
    - [ ] B. Final project presentation
    - [x] C. Building a complete Angular application
    - [ ] D. Further Angular resources and tips
+
    **Correct Answer: C 🏗️**
 
 8. What is the importance of optimizing your Angular app in Lesson 10? 🌟
@@ -539,6 +546,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
    - [x] B. To improve performance and user experience
    - [ ] C. To add unnecessary features
    - [ ] D. To increase the file size
+
    **Correct Answer: B 🌟**
 
 9. Which emoji represents the step of presenting your final project in Lesson 10? 🎉
@@ -546,6 +554,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
    - [ ] B. 🌟
    - [x] C. 🎉
    - [ ] D. 📚
+
    **Correct Answer: C 🎉**
 
 10. What should be the main focus when building a complete Angular application in Lesson 10? 🏗️
@@ -553,6 +562,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
     - [ ] B. Keeping the code messy
     - [x] C. Following best practices and meeting project requirements
     - [ ] D. Using outdated technologies
+
     **Correct Answer: C 🏗️**
 
 11. During the final project presentation, what should you demonstrate about your Angular app? 🎉
@@ -560,6 +570,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
     - [x] B. Its core functionality and features
     - [ ] C. Your tap dancing skills
     - [ ] D. Your knowledge of ancient history
+
     **Correct Answer: B 🎉**
 
 12. What is the significance of Lesson 10 in your Angular journey? 🌟
@@ -567,6 +578,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
     - [ ] B. It marks the end of the course
     - [x] C. It's where you apply and refine your skills
     - [ ] D. It's a random bonus lesson
+
     **Correct Answer: C 🌟**
 
 13. Which step of the final project involves making your Angular app more efficient and user-friendly? 🌟
@@ -574,6 +586,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
     - [ ] B. Polishing and optimizing the app
     - [ ] C. Final project presentation
     - [ ] D. Further Angular resources and tips
+
     **Correct Answer: B 🌟**
 
 14. What should you avoid while polishing and optimizing your Angular app? 🌟
@@ -581,6 +594,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
     - [ ] B. Code cleanliness
     - [ ] C. Enhancing user experience
     - [x] D. Ignoring project requirements
+
     **Correct Answer: D 🌟**
 
 15. Which step of the final project is about creating the foundation of your Angular app? 🏗️
@@ -588,6 +602,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
     - [ ] B. Final project presentation
     - [x] C. Building a complete Angular application
     - [ ] D. Further Angular resources and tips
+
     **Correct Answer: C 🏗️**
 
 16. Why is it important to give a final project presentation in Lesson 10? 🎉
@@ -595,6 +610,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
     - [ ] B. To demonstrate your public speaking skills
     - [x] C. To showcase the Angular app you built
     - [ ] D. To perform a magic trick
+
     **Correct Answer: C 🎉**
 
 17. Which resource is NOT discussed in Lesson 10 for further Angular learning? 📚
@@ -602,6 +618,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
     - [ ] B. Online documentation
     - [ ] C. Gardening tips
     - [x] D. Community forums
+
     **Correct Answer: D 📚**
 
 18. In Lesson 10, what is the primary focus during the "Polishing and optimizing the app" step? 🌟
@@ -609,6 +626,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
     - [ ] B. Increasing the file size
     - [x] C. Improving performance and user experience
     - [ ] D. Adding unnecessary features
+
     **Correct Answer: C 🌟**
 
 19. What should you do with your Angular application after completing the "Building a complete Angular application" step? 🏗️
@@ -616,6 +634,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
     - [ ] B. Ignore it
     - [x] C. Polish and optimize it
     - [ ] D. Move on to learning C++
+
     **Correct Answer: C 🏗️**
 
 20. Which step of the final project involves refining the code and making it more efficient? 🌟
@@ -623,6 +642,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
     - [ ] B. Further Angular resources and tips
     - [x] C. Building a complete Angular application
     - [ ] D. Polishing and optimizing the app
+
     **Correct Answer: D 🌟**
 
 21. What should be the primary goal of the "Polishing and optimizing the app" step in Lesson 10? 🌟
@@ -630,6 +650,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
     - [ ] B. Increasing the complexity of the code
     - [x] C. Improving performance and user experience
     - [ ] D. Adding more bugs
+
     **Correct Answer: C 🌟**
 
 22. What is the last step in Lesson 10's final project? 🎉
@@ -637,6 +658,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
     - [x] B. Final project presentation
     - [ ] C. Building a complete Angular application
     - [ ] D. Further Angular resources and tips
+
     **Correct Answer: B 🎉**
 
 23. During the final project presentation, what should you avoid showing to your audience? 🎉
@@ -644,6 +666,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
     - [x] B. Irrelevant content
     - [ ] C. Your pet's tricks
     - [ ] D. Your Angular app
+
     **Correct Answer: B 🎉**
 
 24. Which step of the final project involves learning more about Angular through external sources? 📚
@@ -651,6 +674,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
     - [x] B. Further Angular resources and tips
     - [ ] C. Building a complete Angular application
     - [ ] D. Polishing and optimizing the app
+
     **Correct Answer: B 📚**
 
 25. What should you focus on when building a complete Angular application in Lesson 10? 🏗️
@@ -658,6 +682,7 @@ Certainly! Here's a short summary of Day 10 using emojis:
     - [ ] B. Making it as simple as possible
     - [x] C. Following best practices and meeting project requirements
     - [ ] D. Using outdated technologies
+
     **Correct Answer: C 🏗️**
 
 As we wrap up  our Angular course, I want to congratulate you on your progress and hard work. Today, we delved into the final project, polishing and optimizing our Angular application to perfection. 🏗️🌟
